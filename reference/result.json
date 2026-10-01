@@ -1,0 +1,12 @@
+{
+  "horizontal_m": 1.0,
+  "drop_m": 0.7,
+  "gravity_m_s2": 9.81,
+  "straight_length_m": 1.2206555615733703,
+  "cycloid_length_m": 1.3020524364914365,
+  "straight_time_s": 0.6587560371854849,
+  "cycloid_time_s": 0.5665629089073876,
+  "length_extra_percent": 6.668291816337546,
+  "time_saved_percent": 13.995033528950973,
+  "final_speed_m_s": 3.7059411760037424
+}
